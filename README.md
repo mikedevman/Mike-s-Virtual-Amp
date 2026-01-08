@@ -8,7 +8,7 @@ output and store the audio file in a folder on the computer.
 
 HOW TO RUN
 - This program requires Anaconda environment (https://www.anaconda.com)
-- After Anaconda is installed, open the program with VS Code inside Anaconda environment
+- After Anaconda is installed, open the program with VS Code inside the Anaconda environment
 - Install all the required libraries in the file 
 - Run the program with the command "python amp.py" in the terminal
 
