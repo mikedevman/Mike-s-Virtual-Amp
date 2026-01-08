@@ -1,4 +1,3 @@
-Mike's Virtual Amp
 This is my custom program for COS10009 (Introduction to Programming) unit in my first semester of my first year at Swinburne Vietnam. The program was made with Python in a limited time period, so there are a lot of features that I planned to 
 add but didn't have time to fully implement them all. 
 
