@@ -11,7 +11,6 @@ HOW TO RUN
 - After Anaconda is installed, open the program with VS Code inside Anaconda environment
 - Install all the required libraries in the file 
 - Run the program with the command "python amp.py" in the terminal
-Enjoy!
 
 You can contact me via email (mikedang1304@gmail.com) if you need any support.
 Thank you!
